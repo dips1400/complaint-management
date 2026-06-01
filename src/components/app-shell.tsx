@@ -109,7 +109,7 @@ export function AppShell({ children }: { children: ReactNode }) {
             <p className="text-[10px] font-semibold uppercase tracking-wider text-sidebar-foreground/60">
               Helpline
             </p>
-            <p className="mt-1 text-sm font-bold">1800-MUNI-CARE</p>
+            <p className="mt-1 text-sm font-bold">1800-0998</p>
             <p className="text-xs text-sidebar-foreground/70">24×7 citizen support</p>
           </div>
         </div>
