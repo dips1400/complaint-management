@@ -157,7 +157,7 @@ export const auditLogs: AuditLog[] = [
 export const announcements = [
   { id: 1, title: "Water supply maintenance — Ward 3", body: "Scheduled disruption 10 AM – 2 PM on Saturday.", date: hoursAgo(6) },
   { id: 2, title: "Monsoon preparedness drive", body: "Report waterlogging hotspots via the portal.", date: hoursAgo(48) },
-  { id: 3, title: "New 24×7 helpline launched", body: "Call 1800-MUNI for urgent civic issues.", date: hoursAgo(120) },
+  { id: 3, title: "New 24×7 helpline launched", body: "Call 1800-0999 for urgent civic issues.", date: hoursAgo(120) },
 ];
 
 export function statusLabel(s: ComplaintStatus): string {
